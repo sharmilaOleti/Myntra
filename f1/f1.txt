@@ -2,3 +2,4 @@ this is feature a
 hello
 branch master
 this is amazing
+master master master
