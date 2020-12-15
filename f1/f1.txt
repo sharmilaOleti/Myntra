@@ -3,3 +3,5 @@ hello
 branch master
 this is amazing
 master master master
+this is amazing
+this is from master branch
