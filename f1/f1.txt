@@ -1,4 +1,4 @@
 this is feature a
 hello
 this is amazing
-This is fun
+this is from master branch
